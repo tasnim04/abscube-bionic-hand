@@ -10,5 +10,5 @@ Each of the fingers were actuated using a micro metal gear DC motor, a rotary po
 
 The rotary potentiometer was utilised in order to ensure precision grip of the fingers. As the DC motor rotated, the shaft caused the rotary potentiometer to rotate as well. Arduino UNO was utilised to keep track of the finger position. 
 
-![154426305_261244518805643_1061316712026544258_n](https://user-images.githubusercontent.com/75569804/109748381-e3f7b880-7c2c-11eb-8186-1a985485af95.jpg)
+![154426305_261244518805643_1061316712026544258_n](https://user-images.githubusercontent.com/75569804/109748521-1bfefb80-7c2d-11eb-99d4-0e177f02b2d1.jpg)
 
