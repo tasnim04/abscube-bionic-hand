@@ -9,3 +9,6 @@ The primary objective of this version was to create a prototype actuated by micr
 Each of the fingers were actuated using a micro metal gear DC motor, a rotary potentiometer and a pulley. Nylon wires were passed through the pulley and the fingers to serve a tendons for this hand. When the DC motor rotates, the nylon wire causes the finger to contract. An elastic, flexible cord was used inside the fingers to spring the fingers back into original position of relaxation. 
 
 The rotary potentiometer was utilised in order to ensure precision grip of the fingers. As the DC motor rotated, the shaft caused the rotary potentiometer to rotate as well. Arduino UNO was utilised to keep track of the finger position. 
+
+![154426305_261244518805643_1061316712026544258_n](https://user-images.githubusercontent.com/75569804/109748381-e3f7b880-7c2c-11eb-8186-1a985485af95.jpg)
+
